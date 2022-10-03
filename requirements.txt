@@ -1,0 +1,3 @@
+Для venv:
+pip install moviepy
+pip install pytube
